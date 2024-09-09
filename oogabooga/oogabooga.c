@@ -330,6 +330,7 @@ typedef u8 bool;
 
 #include "profiling.c"
 #include "random.c"
+#include "range.c" // :custom
 #include "color.c"
 #include "memory.c"
 #include "input.c"
